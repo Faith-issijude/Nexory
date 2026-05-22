@@ -94,29 +94,6 @@ Voice input is:
 
 ---
 
-# System Architecture
-
-Nexory follows a retrieval-first AI architecture:
-
-```text
-User Content
-    ↓
-Content Processing
-    ↓
-OCR / Parsing
-    ↓
-AI Understanding + Embeddings
-    ↓
-Vector Storage
-    ↓
-Semantic Search & Retrieval
-    ↓
-Relevant Results```
-
-
----
-
-
 # MVP Goal
 
 The first version of Nexory focuses on delivering one magical experience:
@@ -195,3 +172,24 @@ Current Focus:
 # License
 
 MIT License
+
+---
+
+# System Architecture
+
+Nexory follows a retrieval-first AI architecture:
+
+```text
+User Content
+    ↓
+Content Processing
+    ↓
+OCR / Parsing
+    ↓
+AI Understanding + Embeddings
+    ↓
+Vector Storage
+    ↓
+Semantic Search & Retrieval
+    ↓
+Relevant Results
