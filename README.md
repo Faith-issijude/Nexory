@@ -145,6 +145,12 @@ Built as part of:
 
 A remote-first African startup build challenge focused on shipping real products publicly across six weeks.
 
+**Team Members**
+
+Faithfulness Issijude 
+Sara Mekonen 
+John Kargbo 
+
 ---
 
 # Repository Status
