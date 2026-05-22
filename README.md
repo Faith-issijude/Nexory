@@ -112,3 +112,83 @@ Vector Storage
 Semantic Search & Retrieval
     ↓
 Relevant Results
+
+
+# MVP Goal
+
+The first version of Nexory focuses on delivering one magical experience:
+
+A user uploads or imports screenshots, then searches naturally for something they vaguely remember — and Nexory successfully retrieves it instantly.
+
+Example:
+> “Show me that black sneaker I saved last month.”
+
+Instead of manually scrolling through hundreds of screenshots, Nexory intelligently surfaces the correct content.
+
+---
+
+# Future Expansion
+
+Future versions of Nexory may include:
+
+- Browser extension
+- Background screenshot detection
+- Mobile share integration
+- Cross-platform saved-content syncing
+- Context-aware AI memory assistant
+- Smart recommendation memory recall
+- Passive content understanding
+
+---
+
+# Why Nexory Matters
+
+Nexory is not just another storage application.
+
+It is an intelligent retrieval engine for human digital memory.
+
+As digital information consumption grows rapidly, the ability to intelligently retrieve previously seen content becomes more valuable than simply saving it.
+
+Nexory helps users:
+- reduce information overload
+- recover forgotten inspiration
+- organize digital memory effortlessly
+- retrieve meaningful content naturally
+
+---
+
+# Team Nexory
+
+Built as part of:
+
+**NSK AI × The Udara Project 2026 — The Build**
+
+A remote-first African startup build challenge focused on shipping real products publicly across six weeks.
+
+---
+
+# Repository Status
+
+🚧 Active Development
+
+Current Phase:
+- Week 1 — Problem Validation & System Architecture
+
+Current Focus:
+- User validation interviews
+- MVP definition
+- AI retrieval architecture
+- GitHub setup
+- Technical planning
+
+---
+
+# Architecture Diagram
+
+[View Nexory Architecture Diagram](./nexory_architecture_diagram_expanded.png)
+
+---
+
+# License
+
+MIT License
