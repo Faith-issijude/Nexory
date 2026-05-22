@@ -147,8 +147,8 @@ A remote-first African startup build challenge focused on shipping real products
 
 **Team Members**
 
-Faithfulness Issijude 
-Sara Mekonen 
+Faithfulness Issijude, 
+Sara Mekonen & 
 John Kargbo 
 
 ---
