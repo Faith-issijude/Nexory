@@ -111,7 +111,10 @@ Vector Storage
     ↓
 Semantic Search & Retrieval
     ↓
-Relevant Results
+Relevant Results```
+
+
+---
 
 
 # MVP Goal
