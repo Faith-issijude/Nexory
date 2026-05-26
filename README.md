@@ -149,7 +149,7 @@ A remote-first African startup build challenge focused on shipping real products
 
 Faithfulness Issijude, 
 Sara Mekonen & 
-John Kargbo 
+Bimme Audrey Zun
 
 ---
 
