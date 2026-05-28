@@ -349,6 +349,7 @@ const styles = {
   searchBar: {
     maxWidth: "680px",
     minHeight: "64px",
+    width: "100%",
     margin: "0 auto",
     borderRadius: "999px",
     border: "1px solid rgba(139,92,246,0.7)",
