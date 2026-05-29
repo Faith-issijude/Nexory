@@ -7,8 +7,10 @@ from pathlib import Path
 from PIL import Image
 import pytesseract
 import uuid
+import platform
 
-pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+if platform.system() == "Windows":
+    pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 app = FastAPI()
 
 app.add_middleware(
